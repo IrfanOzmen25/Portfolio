@@ -1,5 +1,6 @@
 # Welcome to my Portfolio
 Hi! I'm Irfan Ozmen, a computer science student and aspiring AI engineer with hands-on experience in applying machine learning, personalization, and causal inference to real-world retail systems. Most recently, I worked as a Data Science Intern at Meijer, where I contributed to a large-scale overhaul of their mPerks loyalty program. My passion lies in building smart systems that connect data science with real user impact.
 
-📦#1 Meijer mPerks:
+#📝List of my Projects:
+📦 Meijer mPerks:
 I contributed to the overhaul of the mPerks loyalty program by developing end-to-end machine learning solutions that enhanced personalization, forecasting, and campaign impact measurement. I built collaborative filtering and embedding-based recommendation models that increased targeted coupon redemption by 17%, and implemented XGBoost and Prophet forecasting pipelines to predict weekly SKU-store sales with 12% higher accuracy. I also fine-tuned a GPT-2 model to generate personalized campaign messages, resulting in a 9% lift in click-through rates. Additionally, I created a customer segmentation framework using K-Means and RFM analysis, applied causal inference techniques (uplift modeling, double ML) to measure true campaign lift, and delivered interactive dashboards to track model performance, customer response, and promotional ROI.
