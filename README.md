@@ -1,2 +1,2 @@
-# Portfolio
-Hello my name is Irfan.
+# Welcome to my Portfolio
+Hello, my name is Irfan.
